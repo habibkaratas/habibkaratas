@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @habibkaratas
+- 👋 Hi, I’m Habib Karataş
 - 👀 I'm interested in data recovery & ransomware attacks
 - 💞️ You can collaborate to me on data recovery & password cracking.
 - 📫 How to reach me; t.me/habibkaratas, twitter.com/habib_karatas
